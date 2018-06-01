@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f8d1705d01b944f48857b2f0dc1d9e57
+timeCreated: 1526289221
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Finale Copyist Text Ext
+  fontNames:
+  - Finale Copyist Text Ext
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
